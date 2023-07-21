@@ -34,7 +34,7 @@ main {
         }
 
         ul {
-          @apply text-xl list-inside leading-4;
+          @apply text-lg list-inside leading-4;
           font-family: 'Bhavuka', sans-serif;
 
           li::before {
